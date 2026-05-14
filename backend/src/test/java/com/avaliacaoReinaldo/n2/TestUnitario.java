@@ -10,7 +10,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.DEFINED_PORT)
-public class ValidacoesIntegracaoTest {
+public class TestUnitario {
 
     @BeforeAll
     public static void setup() {
