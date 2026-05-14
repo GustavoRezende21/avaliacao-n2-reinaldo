@@ -8,7 +8,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import static io.restassured.RestAssured.given;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.DEFINED_PORT)
-public class TesteIntegracao {
+public class TestAPI {
 
     private final String BASE_URL = "http://localhost:8080";
 
