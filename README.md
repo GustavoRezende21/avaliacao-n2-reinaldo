@@ -37,7 +37,8 @@ A proposta consiste no desenvolvimento de uma plataforma de E-commerce especiali
 * **[Dependências de Testes: JUnit, Selenium, WebDriver Manager (Chrome), Mockito, Rest Assured, Hamcrest]**
 
 ### Frontend
-* **React + Vite (Versão Recente)**
+* **React + Vite (JavaScript) (Versão Recente)**
+* **[Dependências: Axios, react-router-dom]**
 
 ---
 
@@ -46,13 +47,6 @@ A proposta consiste no desenvolvimento de uma plataforma de E-commerce especiali
 * **Node.js** (Versão LTS recomendada) para gerenciar e rodar o Frontend.
 * **IntelliJ IDEA** (Community ou Ultimate) ou qualquer IDE de sua preferência.
 * **Google Chrome** (Necessário para a execução dos testes automatizados do Selenium).
-
----
-
-### Requisitos do Ambiente
-Antes de iniciar, certifique-se de ter instalado em sua máquina:
-* **Java Development Kit (JDK) 17** ou superior.
-* **Node.js** (Versão LTS recomendada) para gerenciar e rodar o Frontend
 
 ---
 
@@ -74,3 +68,4 @@ Abra o seu terminal externo ou utilize o terminal embutido da IDE e execute os p
 1. Navegue até o diretório do frontend (cd `...\avaliacao-n2-reinaldo\frontend`).
 2. Instale todas as dependências necessárias (npm install).
 3. Inicie o servidor de desenvolvimento do Vite (npm run dev).
+4. 6. O console vai indicar o sucesso da execução. Por padrão, o servidor subirá no endereço: (`http://localhost:5173`).
